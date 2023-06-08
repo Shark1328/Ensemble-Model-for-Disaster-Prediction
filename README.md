@@ -8,4 +8,5 @@ The details about the code are as follows:
 3. In the modeling part, 10 models including Decision Book, AdaBoost, Random Forest, GradientBoost, and K-Neighbor Classifier were used for cross-entropy verification and scoring. Select five models of Random Forest, ExtraTree, SVC, AdaBoost and GradientBoost, and set the detailed parameters. Finally, five models are integrated through sklearn's VotingClassifier model to form the final voting classifier.
 
 The dataset of this project comes from Kaggle, mainly about the information of each passenger on the Titanic, including quantified family situation, seat information, etc.
+
 The link is here, https://www.kaggle.com/competitions/titanic
